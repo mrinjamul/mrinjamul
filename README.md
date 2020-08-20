@@ -1,4 +1,4 @@
-[![mrinjamul](https://raw.githubusercontent.com/mrinjamul/mrinjamul/master/matrix.svg)](https://mrinjamul.js.org)
+[![mrinjamul](./matrix.svg)](https://mrinjamul.github.io)
 
 ### Hi there 👋
 
