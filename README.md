@@ -1,6 +1,6 @@
-[![mrinjamul](https://raw.githubusercontent.com/mrinjamul/mrinjamul/master/matrix.svg)](https://mrinjamul.github.io)
-
 ### Hi there 👋
+
+#### visit [mrinjamul.github.io/](http://mrinjamul.github.io/)
 
 <!--
 **mrinjamul/mrinjamul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
