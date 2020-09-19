@@ -24,7 +24,7 @@
 [![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 [![Vim](https://img.shields.io/badge/-Vim-%2300800B?style=flat-square&logo=vim&logoColor=%23ffffff)](https://www.vim.org/)
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![Docker](https://img.shields.io/badge/-Docker-%23ddd?style=flat-square&logo=docker&logoColor=%23007ACC)]()
+[![Docker](https://img.shields.io/badge/-Docker-%23eeeeee?style=flat-square&logo=docker&logoColor=%23007ACC)]()
 
 
 
