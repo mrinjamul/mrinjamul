@@ -2,7 +2,7 @@
 
 *I'm Injamul*
 
-- 🌱 I’m currently learning Web Technologies, and Programming Languages
+- 🌱 I’m currently learning Web Technologies and Programming Languages
 
 [![GitHub](https://img.shields.io/github/followers/mrinjamul.svg?label=GitHub&style=social)](https://github.com/mrinjamul?tab=followers)
 
