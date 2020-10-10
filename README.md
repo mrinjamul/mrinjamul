@@ -28,7 +28,7 @@ _I'm Injamul_
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-[![mrinjamul](https://github-profile-trophy.vercel.app/?username=mrinjamul)]()
+<!--[![mrinjamul](https://github-profile-trophy.vercel.app/?username=mrinjamul)]()-->
 
 [![mrinjamul's github stats](https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=light)]()
 
