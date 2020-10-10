@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-*I'm Injamul*
+_I'm Injamul_
 
 - 🌱 I’m currently learning Web Technologies and Programming Languages
 
@@ -26,20 +26,19 @@
 [![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![Docker](https://img.shields.io/badge/-Docker-%23eeeeee?style=flat-square&logo=docker&logoColor=%23007ACC)]()
 
-
-
-
 ## 𝗦𝘁𝗮𝘁𝘀
 
+[![mrinjamul](https://github-profile-trophy.vercel.app/?username=mrinjamul)]()
+
 [![mrinjamul's github stats](https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=light)]()
+
+[![mrinjamul's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinjamul&layout=compact)]()
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrinjamul.mrinjamul)]()
 
-#### Visit my website,  [mrinjamul.github.io](http://mrinjamul.github.io/)
-
-
+#### Visit my website, [mrinjamul.github.io](http://mrinjamul.github.io/)
 
 <!--
 **mrinjamul/mrinjamul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
