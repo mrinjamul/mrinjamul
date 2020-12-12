@@ -32,8 +32,6 @@ _I'm Injamul_
 
 [![mrinjamul's github stats](https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=light)]()
 
-[![mrinjamul's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinjamul&layout=compact)]()
-
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrinjamul.mrinjamul)]()
