@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-_I'm Injamul_
+**_I'm Injamul_**
 
 - 🌱 I’m currently learning Web Technologies and Programming Languages
 
 [![GitHub](https://img.shields.io/github/followers/mrinjamul.svg?label=GitHub&style=social)](https://github.com/mrinjamul?tab=followers)
+
+I ❤ Open Source.
 
 ## I'm using
 
@@ -30,13 +32,14 @@ _I'm Injamul_
 
 <!--[![mrinjamul](https://github-profile-trophy.vercel.app/?username=mrinjamul)]()-->
 
-[![mrinjamul's github stats](https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=light)]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinjamul&hide=html)
+![mrinjamul's github stats](https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=light&count_private=true&line_height=34)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrinjamul.mrinjamul)]()
 
-#### Visit my website, [mrinjamul.github.io](http://mrinjamul.github.io/)
+#### [mrinjamul.github.io](http://mrinjamul.github.io/)
 
 <!--
 **mrinjamul/mrinjamul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
