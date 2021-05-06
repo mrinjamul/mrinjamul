@@ -3,6 +3,7 @@
 **_I'm Injamul_**
 
 - 🌱 I’m currently learning Web Technologies and Programming Languages
+- 📫 How to reach me: @mrinjamul
 
 [![GitHub](https://img.shields.io/github/followers/mrinjamul.svg?label=GitHub&style=social)](https://github.com/mrinjamul?tab=followers)
 
@@ -32,8 +33,16 @@ I ❤ Open Source.
 
 <!--[![mrinjamul](https://github-profile-trophy.vercel.app/?username=mrinjamul)]()-->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinjamul&hide=html)
-![mrinjamul's github stats](https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=light&count_private=true&line_height=34)
+<a href="https://github.com/mrinjamul">
+    <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=tokyonight&count_private=true" alt="Top languages" />
+    <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinjamul&theme=tokyonight&layout=compact"
+    alt="mrinjamul's github stats" />
+</a>
+<br/>
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
