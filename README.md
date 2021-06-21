@@ -3,7 +3,7 @@
 **_I'm Injamul_**
 
 - 🌱 I’m currently learning Web Technologies and Programming Languages
-- 📫 How to reach me: @mrinjamul
+- 📫 How to reach me: [@mrinjamul](mailto:mrinjamul@gmail.com)
 
 [![GitHub](https://img.shields.io/github/followers/mrinjamul.svg?label=GitHub&style=social)](https://github.com/mrinjamul?tab=followers)
 
@@ -36,19 +36,23 @@ I ❤ Open Source.
 <a href="https://github.com/mrinjamul">
     <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=tokyonight&count_private=true" alt="Top languages" />
+    src="https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=tokyonight&count_private=true" alt="mrinjamul's github stats" />
     <img
     height="180em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinjamul&theme=tokyonight&layout=compact"
-    alt="mrinjamul's github stats" />
+    alt="Top languages" />
 </a>
 <br/>
+
+## Blogs
+
+[mrinjamul's blog](https://mrinjamul.github.io/gh-blog)
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 [![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrinjamul.mrinjamul)]()
 
-#### [mrinjamul.github.io](http://mrinjamul.github.io/)
+#### [mrinjamul](http://mrinjamul.github.io/)
 
 <!--
 **mrinjamul/mrinjamul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
