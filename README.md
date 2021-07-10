@@ -9,6 +9,9 @@
 
 I ❤ Open Source.
 
+![snake svg](https://github.com/mrinjamul/mrinjamul/blob/output/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/mrinjamul/mrinjamul/blob/output/github-contribution-grid-snake.gif) -->
+
 ## I'm using
 
 [![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)]()
