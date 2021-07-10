@@ -9,8 +9,8 @@
 
 I ❤ Open Source.
 
-![snake svg](https://github.com/mrinjamul/mrinjamul/blob/output/github-contribution-grid-snake.svg)
-<!-- ![snake gif](https://github.com/mrinjamul/mrinjamul/blob/output/github-contribution-grid-snake.gif) -->
+![snake svg](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.svg)
+<!-- ![snake gif](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.gif) -->
 
 ## I'm using
 
