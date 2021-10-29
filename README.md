@@ -10,6 +10,7 @@
 I ❤ Open Source.
 
 ![snake svg](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.svg)
+
 <!-- ![snake gif](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.gif) -->
 
 ## I'm using
@@ -38,10 +39,10 @@ I ❤ Open Source.
 
 <a href="https://github.com/mrinjamul">
     <img
-    height="180em"
+    height="160em"
     src="https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=tokyonight&count_private=true" alt="mrinjamul's github stats" />
     <img
-    height="180em"
+    height="160em"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinjamul&theme=tokyonight&layout=compact"
     alt="Top languages" />
 </a>
