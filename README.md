@@ -15,25 +15,25 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (3 days ago)
-- [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder. (4 days ago)
-- [mrinjamul/tasks](https://github.com/mrinjamul/tasks) - A command-line todolist application. (5 days ago)
-- [mrinjamul/homebrew-main](https://github.com/mrinjamul/homebrew-main) - Homebrew formula for installing apps and tools (6 days ago)
+- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (4 days ago)
+- [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder. (5 days ago)
+- [mrinjamul/tasks](https://github.com/mrinjamul/tasks) - A command-line todolist application. (6 days ago)
+- [mrinjamul/homebrew-main](https://github.com/mrinjamul/homebrew-main) - Homebrew formula for installing apps and tools (1 week ago)
 - [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.1.3](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.1.3), 4 days ago) - A simple (static) web server
-- [termux/termux-packages](https://github.com/termux/termux-packages) ([bootstrap-2022.01.23-r1](https://github.com/termux/termux-packages/releases/tag/bootstrap-2022.01.23-r1), 4 days ago) - A build system and primary set of packages for Termux.
-- [mrinjamul/tasks](https://github.com/mrinjamul/tasks) ([v1.1.1](https://github.com/mrinjamul/tasks/releases/tag/v1.1.1), 5 days ago) - A command-line todolist application.
-- [linuxuserin/go-github](https://github.com/linuxuserin/go-github) ([v0.1.0](https://github.com/linuxuserin/go-github/releases/tag/v0.1.0), 6 days ago)
+- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.1.3](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.1.3), 5 days ago) - A simple (static) web server
+- [termux/termux-packages](https://github.com/termux/termux-packages) ([bootstrap-2022.01.23-r1](https://github.com/termux/termux-packages/releases/tag/bootstrap-2022.01.23-r1), 5 days ago) - A build system and primary set of packages for Termux.
+- [mrinjamul/tasks](https://github.com/mrinjamul/tasks) ([v1.1.1](https://github.com/mrinjamul/tasks/releases/tag/v1.1.1), 6 days ago) - A command-line todolist application.
+- [linuxuserin/go-github](https://github.com/linuxuserin/go-github) ([v0.1.0](https://github.com/linuxuserin/go-github/releases/tag/v0.1.0), 1 week ago)
 - [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) ([v2.0.0](https://github.com/mrinjamul/words-zen/releases/tag/v2.0.0), 1 week ago) - Words as a Service.
 
 #### ⭐ Latest repositories I starred
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 124965 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 125347 stars
 
 #### 👥 Latest follower
 
