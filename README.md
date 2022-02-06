@@ -15,25 +15,25 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (5 days ago)
-- [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) - A boilerplate for a Gin project. (6 days ago)
+- [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (6 days ago)
+- [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) - A boilerplate for a Gin project. (1 week ago)
 - [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (1 week ago)
 - [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (1 week ago)
-- [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder. (1 week ago)
+- [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder. (2 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [termux/termux-packages](https://github.com/termux/termux-packages) ([bootstrap-2022.01.30-r1](https://github.com/termux/termux-packages/releases/tag/bootstrap-2022.01.30-r1), 6 days ago) - A build system and primary set of packages for Termux.
+- [termux/termux-packages](https://github.com/termux/termux-packages) ([bootstrap-2022.01.30-r1](https://github.com/termux/termux-packages/releases/tag/bootstrap-2022.01.30-r1), 1 week ago) - A build system and primary set of packages for Termux.
 - [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) ([v2.0.1](https://github.com/mrinjamul/words-zen/releases/tag/v2.0.1), 1 week ago) - Words as a Service.
-- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.1.3](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.1.3), 1 week ago) - A simple (static) web server
+- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.1.3](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.1.3), 2 weeks ago) - A simple (static) web server
 - [mrinjamul/tasks](https://github.com/mrinjamul/tasks) ([v1.1.1](https://github.com/mrinjamul/tasks/releases/tag/v1.1.1), 2 weeks ago) - A command-line todolist application.
-- [linuxuserin/go-github](https://github.com/linuxuserin/go-github) ([v0.1.0](https://github.com/linuxuserin/go-github/releases/tag/v0.1.0), 2 weeks ago)
+- [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) ([v1.0.0](https://github.com/mrinjamul/go-gin-boilerplate/releases/tag/v1.0.0), 3 weeks ago) - A boilerplate for a Gin project.
 
 #### ⭐ Latest repositories I starred
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 126456 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 126510 stars
 
 #### 👥 Latest follower
 
