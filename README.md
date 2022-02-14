@@ -15,11 +15,11 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (1 week ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (1 day ago)
+- [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (2 weeks ago)
 - [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) - A boilerplate for a Gin project. (2 weeks ago)
 - [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (2 weeks ago)
-- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (2 weeks ago)
-- [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder. (3 weeks ago)
+- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (3 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 126883 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 126946 stars
 
 #### 👥 Latest follower
 
