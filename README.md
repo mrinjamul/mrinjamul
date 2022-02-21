@@ -15,17 +15,17 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (1 day ago)
-- [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (2 weeks ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (2 days ago)
+- [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (3 weeks ago)
 - [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) - A boilerplate for a Gin project. (3 weeks ago)
 - [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (3 weeks ago)
-- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (3 weeks ago)
+- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (4 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
 - [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) ([v2.0.1](https://github.com/mrinjamul/words-zen/releases/tag/v2.0.1), 3 weeks ago) - Words as a Service.
 - [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.1.3](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.1.3), 4 weeks ago) - A simple (static) web server
-- [mrinjamul/tasks](https://github.com/mrinjamul/tasks) ([v1.1.1](https://github.com/mrinjamul/tasks/releases/tag/v1.1.1), 4 weeks ago) - A command-line todolist application.
+- [mrinjamul/tasks](https://github.com/mrinjamul/tasks) ([v1.1.1](https://github.com/mrinjamul/tasks/releases/tag/v1.1.1), 1 month ago) - A command-line todolist application.
 - [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) ([v1.0.0](https://github.com/mrinjamul/go-gin-boilerplate/releases/tag/v1.0.0), 1 month ago) - A boilerplate for a Gin project.
 - [mrinjamul/tcp-proxy](https://github.com/mrinjamul/tcp-proxy) ([v0.1.0](https://github.com/mrinjamul/tcp-proxy/releases/tag/v0.1.0), 1 month ago) - A dead simple reverse proxy server.
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 127260 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 127298 stars
 
 #### 👥 Latest follower
 
