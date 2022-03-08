@@ -15,7 +15,7 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (2 days ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (3 days ago)
 - [mrinjamul/unTutorials](https://github.com/mrinjamul/unTutorials) - This Project for CommandLine Applications. includes configs and documentation. https://mrinjamul.github.io/unTutorials (1 week ago)
 - [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (1 month ago)
 - [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) - A boilerplate for a Gin project. (1 month ago)
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 128010 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 128049 stars
 
 #### 👥 Latest follower
 
