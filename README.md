@@ -15,11 +15,11 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (2 days ago)
-- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (3 weeks ago)
+- [1xcode/1xcode.github.io](https://github.com/1xcode/1xcode.github.io) - Collaborating with a community is about more than developing code. Collaboration is the freedom to ask questions and offer improvements—that&#39;s the open source way. It&#39;s why we&#39;ve been a part of open source communities, working side-by-side with people like you. (1 day ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (3 days ago)
+- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (4 weeks ago)
 - [mrinjamul/unTutorials](https://github.com/mrinjamul/unTutorials) - This Project for CommandLine Applications. includes configs and documentation. https://mrinjamul.github.io/unTutorials (2 months ago)
 - [tech-thinker/linkly](https://github.com/tech-thinker/linkly) - linkly, A url shortner service (2 months ago)
-- [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (2 months ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 130895 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 130956 stars
 
 #### 👥 Latest follower
 
