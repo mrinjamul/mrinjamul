@@ -15,9 +15,9 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [1xcode/1xcode.github.io](https://github.com/1xcode/1xcode.github.io) - Collaborating with a community is about more than developing code. Collaboration is the freedom to ask questions and offer improvements—that&#39;s the open source way. It&#39;s why we&#39;ve been a part of open source communities, working side-by-side with people like you. (2 days ago)
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (4 days ago)
-- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (4 weeks ago)
+- [1xcode/1xcode.github.io](https://github.com/1xcode/1xcode.github.io) - Collaborating with a community is about more than developing code. Collaboration is the freedom to ask questions and offer improvements—that&#39;s the open source way. It&#39;s why we&#39;ve been a part of open source communities, working side-by-side with people like you. (3 days ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (5 days ago)
+- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (1 month ago)
 - [mrinjamul/unTutorials](https://github.com/mrinjamul/unTutorials) - This Project for CommandLine Applications. includes configs and documentation. https://mrinjamul.github.io/unTutorials (2 months ago)
 - [tech-thinker/linkly](https://github.com/tech-thinker/linkly) - linkly, A url shortner service (2 months ago)
 
@@ -27,13 +27,13 @@ I ❤ Open Source.
 - [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) ([v2.0.1](https://github.com/mrinjamul/words-zen/releases/tag/v2.0.1), 3 months ago) - Words as a Service.
 - [mrinjamul/tasks](https://github.com/mrinjamul/tasks) ([v1.1.1](https://github.com/mrinjamul/tasks/releases/tag/v1.1.1), 3 months ago) - A command-line todolist application.
 - [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) ([v1.0.0](https://github.com/mrinjamul/go-gin-boilerplate/releases/tag/v1.0.0), 3 months ago) - A boilerplate for a Gin project.
-- [mrinjamul/tcp-proxy](https://github.com/mrinjamul/tcp-proxy) ([v0.1.0](https://github.com/mrinjamul/tcp-proxy/releases/tag/v0.1.0), 3 months ago) - A dead simple reverse proxy server.
+- [mrinjamul/tcp-proxy](https://github.com/mrinjamul/tcp-proxy) ([v0.1.0](https://github.com/mrinjamul/tcp-proxy/releases/tag/v0.1.0), 4 months ago) - A dead simple reverse proxy server.
 
 #### ⭐ Latest repositories I starred
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 131003 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 131044 stars
 
 #### 👥 Latest follower
 
