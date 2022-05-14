@@ -26,14 +26,14 @@ I ❤ Open Source.
 - [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.2.0](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.2.0), 1 month ago) - A simple (static) web server
 - [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) ([v2.0.1](https://github.com/mrinjamul/words-zen/releases/tag/v2.0.1), 3 months ago) - Words as a Service.
 - [mrinjamul/tasks](https://github.com/mrinjamul/tasks) ([v1.1.1](https://github.com/mrinjamul/tasks/releases/tag/v1.1.1), 3 months ago) - A command-line todolist application.
-- [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) ([v1.0.0](https://github.com/mrinjamul/go-gin-boilerplate/releases/tag/v1.0.0), 3 months ago) - A boilerplate for a Gin project.
+- [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) ([v1.0.0](https://github.com/mrinjamul/go-gin-boilerplate/releases/tag/v1.0.0), 4 months ago) - A boilerplate for a Gin project.
 - [mrinjamul/tcp-proxy](https://github.com/mrinjamul/tcp-proxy) ([v0.1.0](https://github.com/mrinjamul/tcp-proxy/releases/tag/v0.1.0), 4 months ago) - A dead simple reverse proxy server.
 
 #### ⭐ Latest repositories I starred
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 131578 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 131640 stars
 
 #### 👥 Latest follower
 
