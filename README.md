@@ -15,7 +15,7 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (4 days ago)
+- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (5 days ago)
 - [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (2 weeks ago)
 - [1xcode/1xcode.github.io](https://github.com/1xcode/1xcode.github.io) - Collaborating with a community is about more than developing code. Collaboration is the freedom to ask questions and offer improvements—that&#39;s the open source way. It&#39;s why we&#39;ve been a part of open source communities, working side-by-side with people like you. (3 weeks ago)
 - [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (1 month ago)
@@ -23,17 +23,17 @@ I ❤ Open Source.
 
 #### 🚀 Latest releases I contributed to
 
-- [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 4 days ago) - A start page for surfing the web.
+- [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 5 days ago) - A start page for surfing the web.
 - [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.2.0](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.2.0), 1 month ago) - A simple (static) web server
 - [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) ([v2.0.1](https://github.com/mrinjamul/words-zen/releases/tag/v2.0.1), 3 months ago) - Words as a Service.
-- [mrinjamul/tasks](https://github.com/mrinjamul/tasks) ([v1.1.1](https://github.com/mrinjamul/tasks/releases/tag/v1.1.1), 3 months ago) - A command-line todolist application.
+- [mrinjamul/tasks](https://github.com/mrinjamul/tasks) ([v1.1.1](https://github.com/mrinjamul/tasks/releases/tag/v1.1.1), 4 months ago) - A command-line todolist application.
 - [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) ([v1.0.0](https://github.com/mrinjamul/go-gin-boilerplate/releases/tag/v1.0.0), 4 months ago) - A boilerplate for a Gin project.
 
 #### ⭐ Latest repositories I starred
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 131972 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 132022 stars
 
 #### 👥 Latest follower
 
