@@ -15,25 +15,25 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
+- [mrinjamul/notify-con](https://github.com/mrinjamul/notify-con) - A simple service to check internet states (today)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (4 days ago)
 - [mrinjamul/homebrew-main](https://github.com/mrinjamul/homebrew-main) - Homebrew formula for installing apps and tools (1 week ago)
 - [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (3 weeks ago)
 - [1xcode/1xcode.github.io](https://github.com/1xcode/1xcode.github.io) - Collaborating with a community is about more than developing code. Collaboration is the freedom to ask questions and offer improvements—that&#39;s the open source way. It&#39;s why we&#39;ve been a part of open source communities, working side-by-side with people like you. (1 month ago)
-- [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) - A simple (static) web server (1 month ago)
 
 #### 🚀 Latest releases I contributed to
 
+- [mrinjamul/notify-con](https://github.com/mrinjamul/notify-con) ([v1.0.1](https://github.com/mrinjamul/notify-con/releases/tag/v1.0.1), today) - A simple service to check internet states
 - [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 1 week ago) - A start page for surfing the web.
 - [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.2.0](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.2.0), 1 month ago) - A simple (static) web server
 - [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) ([v2.0.1](https://github.com/mrinjamul/words-zen/releases/tag/v2.0.1), 4 months ago) - Words as a Service.
 - [mrinjamul/tasks](https://github.com/mrinjamul/tasks) ([v1.1.1](https://github.com/mrinjamul/tasks/releases/tag/v1.1.1), 4 months ago) - A command-line todolist application.
-- [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) ([v1.0.0](https://github.com/mrinjamul/go-gin-boilerplate/releases/tag/v1.0.0), 4 months ago) - A boilerplate for a Gin project.
 
 #### ⭐ Latest repositories I starred
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 132339 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 132358 stars
 
 #### 👥 Latest follower
 
@@ -45,11 +45,11 @@ I ❤ Open Source.
 
 #### 👨‍💻 Repositories I created recently
 
+- [mrinjamul/notify-con](https://github.com/mrinjamul/notify-con) - A simple service to check internet states
 - [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here
 - [mrinjamul/homebrew-main](https://github.com/mrinjamul/homebrew-main) - Homebrew formula for installing apps and tools
 - [mrinjamul/deno-module-starter](https://github.com/mrinjamul/deno-module-starter) - Deno module starter repository.
 - [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) - A boilerplate for a Gin project.
-- [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service.
 
 
 
