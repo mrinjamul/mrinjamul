@@ -24,7 +24,7 @@ I ❤ Open Source.
 #### 🚀 Latest releases I contributed to
 
 - [mrinjamul/notify-con](https://github.com/mrinjamul/notify-con) ([v1.0.1](https://github.com/mrinjamul/notify-con/releases/tag/v1.0.1), 1 week ago) - A simple service to check internet states
-- [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 2 weeks ago) - A start page for surfing the web.
+- [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 3 weeks ago) - A start page for surfing the web.
 - [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.2.0](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.2.0), 2 months ago) - A simple (static) web server
 - [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) ([v2.0.1](https://github.com/mrinjamul/words-zen/releases/tag/v2.0.1), 4 months ago) - Words as a Service.
 - [mrinjamul/tasks](https://github.com/mrinjamul/tasks) ([v1.1.1](https://github.com/mrinjamul/tasks/releases/tag/v1.1.1), 4 months ago) - A command-line todolist application.
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 132676 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 132725 stars
 
 #### 👥 Latest follower
 
