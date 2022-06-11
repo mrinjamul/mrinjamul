@@ -16,10 +16,10 @@ I ❤ Open Source.
 #### 👷 I'm currently working on
 
 - [mrinjamul/notify-con](https://github.com/mrinjamul/notify-con) - A simple service to check internet states (1 week ago)
+- [manish7479dlp/college-exam](https://github.com/manish7479dlp/college-exam) - College Examination System (2 weeks ago)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (2 weeks ago)
 - [mrinjamul/homebrew-main](https://github.com/mrinjamul/homebrew-main) - Homebrew formula for installing apps and tools (2 weeks ago)
 - [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (1 month ago)
-- [1xcode/1xcode.github.io](https://github.com/1xcode/1xcode.github.io) - Collaborating with a community is about more than developing code. Collaboration is the freedom to ask questions and offer improvements—that&#39;s the open source way. It&#39;s why we&#39;ve been a part of open source communities, working side-by-side with people like you. (1 month ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 132880 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 132931 stars
 
 #### 👥 Latest follower
 
