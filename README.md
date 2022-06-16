@@ -15,7 +15,7 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) - A Self destructive messaging application (3 days ago)
+- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) - A Self destructive messaging application (4 days ago)
 - [mrinjamul/notify-con](https://github.com/mrinjamul/notify-con) - A simple service to check internet states (2 weeks ago)
 - [manish7479dlp/college-exam](https://github.com/manish7479dlp/college-exam) - College Examination System (2 weeks ago)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (3 weeks ago)
@@ -23,9 +23,9 @@ I ❤ Open Source.
 
 #### 🚀 Latest releases I contributed to
 
-- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) ([v1.0.0](https://github.com/mrinjamul/go-secret/releases/tag/v1.0.0), 4 days ago) - A Self destructive messaging application
+- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) ([v1.0.0](https://github.com/mrinjamul/go-secret/releases/tag/v1.0.0), 5 days ago) - A Self destructive messaging application
 - [mrinjamul/notify-con](https://github.com/mrinjamul/notify-con) ([v1.0.1](https://github.com/mrinjamul/notify-con/releases/tag/v1.0.1), 2 weeks ago) - A simple service to check internet states
-- [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 4 weeks ago) - A start page for surfing the web.
+- [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 1 month ago) - A start page for surfing the web.
 - [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.2.0](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.2.0), 2 months ago) - A simple (static) web server
 - [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) ([v2.0.1](https://github.com/mrinjamul/words-zen/releases/tag/v2.0.1), 4 months ago) - Words as a Service.
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 3 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 133144 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 133188 stars
 
 #### 👥 Latest follower
 
