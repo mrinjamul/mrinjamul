@@ -15,11 +15,11 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (1 day ago)
-- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) - A Self destructive messaging application (4 days ago)
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (5 days ago)
+- [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (2 days ago)
+- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) - A Self destructive messaging application (5 days ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (6 days ago)
 - [mrinjamul/notify-con](https://github.com/mrinjamul/notify-con) - A simple service to check internet states (3 weeks ago)
-- [manish7479dlp/college-exam](https://github.com/manish7479dlp/college-exam) - College Examination System (3 weeks ago)
+- [manish7479dlp/college-exam](https://github.com/manish7479dlp/college-exam) - College Examination System (4 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 133572 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 133636 stars
 
 #### 👥 Latest follower
 
