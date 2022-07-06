@@ -15,15 +15,15 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (3 days ago)
-- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) - A Self destructive messaging application (3 days ago)
-- [mrinjamul/.github](https://github.com/mrinjamul/.github) - Default Community health file (5 days ago)
-- [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (5 days ago)
-- [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (1 week ago)
+- [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder. (2 days ago)
+- [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (4 days ago)
+- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) - A Self destructive messaging application (4 days ago)
+- [mrinjamul/.github](https://github.com/mrinjamul/.github) - Default Community health file (6 days ago)
+- [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) ([v1.0.1](https://github.com/mrinjamul/go-secret/releases/tag/v1.0.1), 3 days ago) - A Self destructive messaging application
+- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) ([v1.0.1](https://github.com/mrinjamul/go-secret/releases/tag/v1.0.1), 4 days ago) - A Self destructive messaging application
 - [mrinjamul/notify-con](https://github.com/mrinjamul/notify-con) ([v1.0.1](https://github.com/mrinjamul/notify-con/releases/tag/v1.0.1), 1 month ago) - A simple service to check internet states
 - [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 1 month ago) - A start page for surfing the web.
 - [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.2.0](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.2.0), 3 months ago) - A simple (static) web server
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 134150 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 134244 stars
 
 #### 👥 Latest follower
 
