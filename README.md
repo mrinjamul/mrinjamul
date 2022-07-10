@@ -15,11 +15,11 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder. (5 days ago)
+- [tech-thinker/linkly](https://github.com/tech-thinker/linkly) - linkly, A url shortner service (1 day ago)
+- [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder. (6 days ago)
 - [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (1 week ago)
 - [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) - A Self destructive messaging application (1 week ago)
 - [mrinjamul/.github](https://github.com/mrinjamul/.github) - Default Community health file (1 week ago)
-- [mrinjamul/words-zen](https://github.com/mrinjamul/words-zen) - Words as a Service. (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 134444 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 134477 stars
 
 #### 👥 Latest follower
 
