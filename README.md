@@ -15,25 +15,25 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (4 days ago)
-- [mrinjamul/mrinjamul-cli](https://github.com/mrinjamul/mrinjamul-cli) - A CLI to interact with Cloudflare API and manipulate DNS records. (5 days ago)
-- [tech-thinker/linkly](https://github.com/tech-thinker/linkly) - linkly, A url shortner service (6 days ago)
+- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (5 days ago)
+- [mrinjamul/mrinjamul-cli](https://github.com/mrinjamul/mrinjamul-cli) - A CLI to interact with Cloudflare API and manipulate DNS records. (6 days ago)
+- [tech-thinker/linkly](https://github.com/tech-thinker/linkly) - linkly, A url shortner service (1 week ago)
 - [mrinjamul/go-dupfinder](https://github.com/mrinjamul/go-dupfinder) - Duplicate File Finder. (1 week ago)
-- [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (1 week ago)
+- [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (2 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [mrinjamul/mrinjamul-cli](https://github.com/mrinjamul/mrinjamul-cli) ([v1.2.0](https://github.com/mrinjamul/mrinjamul-cli/releases/tag/v1.2.0), 5 days ago) - A CLI to interact with Cloudflare API and manipulate DNS records.
-- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) ([v1.0.1](https://github.com/mrinjamul/go-secret/releases/tag/v1.0.1), 1 week ago) - A Self destructive messaging application
+- [mrinjamul/mrinjamul-cli](https://github.com/mrinjamul/mrinjamul-cli) ([v1.2.0](https://github.com/mrinjamul/mrinjamul-cli/releases/tag/v1.2.0), 6 days ago) - A CLI to interact with Cloudflare API and manipulate DNS records.
+- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) ([v1.0.1](https://github.com/mrinjamul/go-secret/releases/tag/v1.0.1), 2 weeks ago) - A Self destructive messaging application
 - [mrinjamul/notify-con](https://github.com/mrinjamul/notify-con) ([v1.0.1](https://github.com/mrinjamul/notify-con/releases/tag/v1.0.1), 1 month ago) - A simple service to check internet states
-- [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 1 month ago) - A start page for surfing the web.
+- [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 2 months ago) - A start page for surfing the web.
 - [mrinjamul/simple-web-server](https://github.com/mrinjamul/simple-web-server) ([v1.2.0](https://github.com/mrinjamul/simple-web-server/releases/tag/v1.2.0), 3 months ago) - A simple (static) web server
 
 #### ⭐ Latest repositories I starred
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 134742 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 134785 stars
 
 #### 👥 Latest follower
 
