@@ -9,6 +9,8 @@ I ❤ Open Source.
 
 ![snake svg](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.svg)
 
+
+
 ## 🎬 My Activities
 
 #### 👷 I'm currently working on
@@ -31,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 134837 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 134839 stars
 
 #### 👥 Latest follower
 
@@ -49,6 +51,7 @@ I ❤ Open Source.
 - [mrinjamul/gnote](https://github.com/mrinjamul/gnote) - A note taking web based application
 - [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here
 
+
 <p align="center">
   <details open><summary>Recent activity charts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
   <details open><summary>Midly interesting facts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.facts.svg" alt=""></img></details>
@@ -59,6 +62,7 @@ I ❤ Open Source.
   <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.code.svg" alt=""></img>
   <img width="900" height="1" alt="" />
 </p>
+
 
 ## I'm using
 
@@ -81,6 +85,8 @@ I ❤ Open Source.
 [![Docker](https://img.shields.io/badge/-Docker-%23eeeeee?style=flat-square&logo=docker&logoColor=%23007ACC)]()
 
 ## 𝗦𝘁𝗮𝘁𝘀
+
+
 
 <a href="https://github.com/mrinjamul">
     <img
@@ -109,4 +115,7 @@ I ❤ Open Source.
   <img width="900" height="1" alt="" />
 </p>
 
+
 #### [mrinjamul](http://mrinjamul.github.io/)
+
+
