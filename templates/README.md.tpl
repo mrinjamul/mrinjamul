@@ -39,6 +39,17 @@ I ❤ Open Source.
   {{- end}}
 
 
+<p align="center">
+  <details open><summary>Recent activity charts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
+  <details open><summary>Midly interesting facts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.facts.svg" alt=""></img></details>
+      <img width="900" height="1" alt="" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.code.svg" alt=""></img>
+  <img width="900" height="1" alt="" />
+</p>
+
 
 ## I'm using
 
@@ -87,8 +98,8 @@ I ❤ Open Source.
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/skyline-2020.svg" alt="Skyline 2020" />
-  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/skyline-2021.svg" alt="Skyline 2021" />
+  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.skyline.svg" alt="Skyline Current" />
+  <img width="900" height="1" alt="" />
 </p>
 
 

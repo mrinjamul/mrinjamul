@@ -9,8 +9,6 @@ I ❤ Open Source.
 
 ![snake svg](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.svg)
 
-
-
 ## 🎬 My Activities
 
 #### 👷 I'm currently working on
@@ -51,7 +49,16 @@ I ❤ Open Source.
 - [mrinjamul/gnote](https://github.com/mrinjamul/gnote) - A note taking web based application
 - [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here
 
+<p align="center">
+  <details open><summary>Recent activity charts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
+  <details open><summary>Midly interesting facts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.facts.svg" alt=""></img></details>
+      <img width="900" height="1" alt="" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.code.svg" alt=""></img>
+  <img width="900" height="1" alt="" />
+</p>
 
 ## I'm using
 
@@ -74,8 +81,6 @@ I ❤ Open Source.
 [![Docker](https://img.shields.io/badge/-Docker-%23eeeeee?style=flat-square&logo=docker&logoColor=%23007ACC)]()
 
 ## 𝗦𝘁𝗮𝘁𝘀
-
-
 
 <a href="https://github.com/mrinjamul">
     <img
@@ -100,11 +105,8 @@ I ❤ Open Source.
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/skyline-2020.svg" alt="Skyline 2020" />
-  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/skyline-2021.svg" alt="Skyline 2021" />
+  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.skyline.svg" alt="Skyline Current" />
+  <img width="900" height="1" alt="" />
 </p>
 
-
 #### [mrinjamul](http://mrinjamul.github.io/)
-
-
