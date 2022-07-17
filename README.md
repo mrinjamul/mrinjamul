@@ -99,10 +99,6 @@ I ❤ Open Source.
 
 <br/>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/skyline-2021.svg" alt="Skyline 2021" />
-</p>
-
 #### [mrinjamul](http://mrinjamul.github.io/)
 
 
