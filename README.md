@@ -15,15 +15,15 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [tech-thinker/linkly](https://github.com/tech-thinker/linkly) - linkly, A url shortner service (2 days ago)
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (3 days ago)
-- [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records. (4 days ago)
+- [tech-thinker/linkly](https://github.com/tech-thinker/linkly) - linkly, A url shortner service (3 days ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (4 days ago)
+- [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records. (5 days ago)
 - [mrinjamul/gnote](https://github.com/mrinjamul/gnote) - A note taking web based application (1 week ago)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) ([v1.2.0](https://github.com/mrinjamul/mrinjamulcf-cli/releases/tag/v1.2.0), 5 days ago) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records.
+- [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) ([v1.2.0](https://github.com/mrinjamul/mrinjamulcf-cli/releases/tag/v1.2.0), 6 days ago) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records.
 - [mrinjamul/gnote](https://github.com/mrinjamul/gnote) ([v0.1.1](https://github.com/mrinjamul/gnote/releases/tag/v0.1.1), 1 week ago) - A note taking web based application
 - [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) ([v1.0.1](https://github.com/mrinjamul/go-secret/releases/tag/v1.0.1), 3 weeks ago) - A Self destructive messaging application
 - [mrinjamul/notify-con](https://github.com/mrinjamul/notify-con) ([v1.0.1](https://github.com/mrinjamul/notify-con/releases/tag/v1.0.1), 1 month ago) - A simple service to check internet states
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 135129 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 135168 stars
 
 #### 👥 Latest follower
 
