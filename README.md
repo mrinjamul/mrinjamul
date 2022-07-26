@@ -15,11 +15,11 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (1 day ago)
-- [mrinjamul/vim-in](https://github.com/mrinjamul/vim-in) - ◈ A vim distribution, you will love it. It is more like IDE than an editor. Alternative to VS Code. (1 day ago)
-- [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (1 day ago)
-- [tech-thinker/linkly](https://github.com/tech-thinker/linkly) - linkly, A url shortner service (4 days ago)
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (5 days ago)
+- [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (2 days ago)
+- [mrinjamul/vim-in](https://github.com/mrinjamul/vim-in) - ◈ A vim distribution, you will love it. It is more like IDE than an editor. Alternative to VS Code. (2 days ago)
+- [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (2 days ago)
+- [tech-thinker/linkly](https://github.com/tech-thinker/linkly) - linkly, A url shortner service (5 days ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (6 days ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 135213 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 135275 stars
 
 #### 👥 Latest follower
 
