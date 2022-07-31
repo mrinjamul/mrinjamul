@@ -15,11 +15,11 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (6 days ago)
-- [mrinjamul/vim-in](https://github.com/mrinjamul/vim-in) - ◈ A vim distribution, you will love it. It is more like IDE than an editor. Alternative to VS Code. (6 days ago)
-- [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (6 days ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (1 day ago)
+- [mrinjamul/vim-in](https://github.com/mrinjamul/vim-in) - ◈ A vim distribution, you will love it. It is more like IDE than an editor. Alternative to VS Code. (1 week ago)
+- [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (1 week ago)
+- [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (1 week ago)
 - [tech-thinker/linkly](https://github.com/tech-thinker/linkly) - linkly, A url shortner service (1 week ago)
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 135463 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 135509 stars
 
 #### 👥 Latest follower
 
