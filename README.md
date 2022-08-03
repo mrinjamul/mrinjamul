@@ -15,7 +15,7 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (3 days ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (4 days ago)
 - [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (1 week ago)
 - [mrinjamul/vim-in](https://github.com/mrinjamul/vim-in) - ◈ A vim distribution, you will love it. It is more like IDE than an editor. Alternative to VS Code. (1 week ago)
 - [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (1 week ago)
@@ -33,15 +33,15 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 135627 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 135692 stars
 
 #### 👥 Latest follower
 
 - [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re) - AKSHAT RASTOGI
-- [nihadenes](https://github.com/nihadenes) - Nihat Enes Şen
 - [bipinbarman](https://github.com/bipinbarman) - Bipin Barman
 - [supriye](https://github.com/supriye) - Supriye Anand
 - [Upendra0](https://github.com/Upendra0) - Upendra Kumar
+- [jaak072](https://github.com/jaak072) - Jawed Akhtar
 
 #### 👨‍💻 Repositories I created recently
 
