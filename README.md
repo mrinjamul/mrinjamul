@@ -15,9 +15,9 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (2 days ago)
-- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (2 days ago)
-- [mrinjamul/authenticator-desktop](https://github.com/mrinjamul/authenticator-desktop) - Authenticator App for Desktop (2 days ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (3 days ago)
+- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (3 days ago)
+- [mrinjamul/authenticator-desktop](https://github.com/mrinjamul/authenticator-desktop) - Authenticator App for Desktop (3 days ago)
 - [mrinjamul/vim-in](https://github.com/mrinjamul/vim-in) - ◈ A vim distribution, you will love it. It is more like IDE than an editor. Alternative to VS Code. (2 weeks ago)
 - [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (2 weeks ago)
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 135947 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 135992 stars
 
 #### 👥 Latest follower
 
