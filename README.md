@@ -15,15 +15,15 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management. (3 days ago)
-- [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) - A boilerplate for a Gin project. (3 days ago)
+- [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management. (4 days ago)
+- [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) - A boilerplate for a Gin project. (4 days ago)
 - [goexec/goexec](https://github.com/goexec/goexec) - A single liner to execute source code programs. (1 week ago)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (1 week ago)
 - [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (1 week ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) ([v1.1.0](https://github.com/mrinjamul/mrinjamul-auth/releases/tag/v1.1.0), 3 days ago) - A asymmetric JWT based authentication service for user management.
+- [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) ([v1.1.0](https://github.com/mrinjamul/mrinjamul-auth/releases/tag/v1.1.0), 4 days ago) - A asymmetric JWT based authentication service for user management.
 - [goexec/goexec](https://github.com/goexec/goexec) ([v1.0.0](https://github.com/goexec/goexec/releases/tag/v1.0.0), 1 week ago) - A single liner to execute source code programs.
 - [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) ([v1.2.0](https://github.com/mrinjamul/mrinjamulcf-cli/releases/tag/v1.2.0), 1 month ago) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records.
 - [mrinjamul/gnote](https://github.com/mrinjamul/gnote) ([v0.1.1](https://github.com/mrinjamul/gnote/releases/tag/v0.1.1), 1 month ago) - A note taking web based application
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 136410 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 136480 stars
 
 #### 👥 Latest follower
 
