@@ -15,8 +15,8 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (today)
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (4 days ago)
+- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (1 day ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (5 days ago)
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management. (1 week ago)
 - [tech-thinker/linkly](https://github.com/tech-thinker/linkly) - linkly, A url shortner service (1 week ago)
 - [mrinjamul/go-gin-boilerplate](https://github.com/mrinjamul/go-gin-boilerplate) - A boilerplate for a Gin project. (2 weeks ago)
@@ -27,13 +27,13 @@ I ❤ Open Source.
 - [goexec/goexec](https://github.com/goexec/goexec) ([v1.0.0](https://github.com/goexec/goexec/releases/tag/v1.0.0), 2 weeks ago) - A single liner to execute source code programs.
 - [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) ([v1.2.0](https://github.com/mrinjamul/mrinjamulcf-cli/releases/tag/v1.2.0), 1 month ago) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records.
 - [mrinjamul/gnote](https://github.com/mrinjamul/gnote) ([v0.1.1](https://github.com/mrinjamul/gnote/releases/tag/v0.1.1), 1 month ago) - A note taking web based application
-- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) ([v1.0.1](https://github.com/mrinjamul/go-secret/releases/tag/v1.0.1), 1 month ago) - A Self destructive messaging application
+- [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) ([v1.0.1](https://github.com/mrinjamul/go-secret/releases/tag/v1.0.1), 2 months ago) - A Self destructive messaging application
 
 #### ⭐ Latest repositories I starred
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 137043 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 137100 stars
 
 #### 👥 Latest follower
 
