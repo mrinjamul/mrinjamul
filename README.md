@@ -24,7 +24,7 @@ I ❤ Open Source.
 #### 🚀 Latest releases I contributed to
 
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) ([v1.1.2](https://github.com/mrinjamul/mrinjamul-auth/releases/tag/v1.1.2), 1 month ago) - A asymmetric JWT based authentication service for user management.
-- [goexec/goexec](https://github.com/goexec/goexec) ([v1.0.0](https://github.com/goexec/goexec/releases/tag/v1.0.0), 1 month ago) - A single liner to execute source code programs.
+- [goexec/goexec](https://github.com/goexec/goexec) ([v1.0.0](https://github.com/goexec/goexec/releases/tag/v1.0.0), 2 months ago) - A single liner to execute source code programs.
 - [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) ([v1.2.0](https://github.com/mrinjamul/mrinjamulcf-cli/releases/tag/v1.2.0), 2 months ago) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records.
 - [mrinjamul/gnote](https://github.com/mrinjamul/gnote) ([v0.1.1](https://github.com/mrinjamul/gnote/releases/tag/v0.1.1), 2 months ago) - A note taking web based application
 - [mrinjamul/go-secret](https://github.com/mrinjamul/go-secret) ([v1.0.1](https://github.com/mrinjamul/go-secret/releases/tag/v1.0.1), 3 months ago) - A Self destructive messaging application
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 139437 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 139487 stars
 
 #### 👥 Latest follower
 
