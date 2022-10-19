@@ -15,7 +15,7 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) - The Science of Deduction:  A Sherlock fan-based blogging site. (6 days ago)
+- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) - The Science of Deduction:  A Sherlock fan-based blogging site. (1 week ago)
 - [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (1 month ago)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (1 month ago)
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management. (1 month ago)
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 139932 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 139986 stars
 
 #### 👥 Latest follower
 
