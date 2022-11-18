@@ -2,6 +2,7 @@ name: readme-scribe
 
 on:
   schedule:
+    # every day
     - cron: "0 0 */1 * *"
   push:
     branches:
