@@ -78,10 +78,10 @@ I ❤ Open Source.
 <a href="https://github.com/mrinjamul">
     <img
     height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=tokyonight&count_private=true" alt="mrinjamul's github stats" />
+    src="https://mrinjamul-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=tokyonight&count_private=true" alt="mrinjamul's github stats" />
     <img
     height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinjamul&theme=tokyonight&layout=compact"
+    src="https://mrinjamul-readme-stats.vercel.app/api/top-langs/?username=mrinjamul&theme=tokyonight&layout=compact"
     alt="Top languages" />
 </a>
 <br/>

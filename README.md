@@ -9,21 +9,19 @@ I ❤ Open Source.
 
 ![snake svg](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.svg)
 
-
-
 ## 🎬 My Activities
 
 #### 👷 I'm currently working on
 
 - [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (2 days ago)
 - [mrinjamul/authenticator-desktop](https://github.com/mrinjamul/authenticator-desktop) - Authenticator App for Desktop (1 week ago)
-- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) - The Science of Deduction:  A Sherlock fan-based blogging site. (1 month ago)
+- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) - The Science of Deduction: A Sherlock fan-based blogging site. (1 month ago)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (2 months ago)
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management. (2 months ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) ([v0.1.0](https://github.com/mrinjamul/the-science-of-deduction/releases/tag/v0.1.0), 1 month ago) - The Science of Deduction:  A Sherlock fan-based blogging site.
+- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) ([v0.1.0](https://github.com/mrinjamul/the-science-of-deduction/releases/tag/v0.1.0), 1 month ago) - The Science of Deduction: A Sherlock fan-based blogging site.
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) ([v1.1.2](https://github.com/mrinjamul/mrinjamul-auth/releases/tag/v1.1.2), 2 months ago) - A asymmetric JWT based authentication service for user management.
 - [goexec/goexec](https://github.com/goexec/goexec) ([v1.0.0](https://github.com/goexec/goexec/releases/tag/v1.0.0), 3 months ago) - A single liner to execute source code programs.
 - [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) ([v1.2.0](https://github.com/mrinjamul/mrinjamulcf-cli/releases/tag/v1.2.0), 4 months ago) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records.
@@ -45,12 +43,11 @@ I ❤ Open Source.
 
 #### 👨‍💻 Repositories I created recently
 
-- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) - The Science of Deduction:  A Sherlock fan-based blogging site.
+- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) - The Science of Deduction: A Sherlock fan-based blogging site.
 - [mrinjamul/authenticator-desktop](https://github.com/mrinjamul/authenticator-desktop) - Authenticator App for Desktop
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management.
 - [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records.
 - [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities.
-
 
 <p align="center">
   <details open><summary>Recent activity charts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
@@ -62,7 +59,6 @@ I ❤ Open Source.
   <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.code.svg" alt=""></img>
   <img width="900" height="1" alt="" />
 </p>
-
 
 ## I'm using
 
@@ -86,15 +82,13 @@ I ❤ Open Source.
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-
-
 <a href="https://github.com/mrinjamul">
     <img
     height="160em"
-    src="https://github-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=tokyonight&count_private=true" alt="mrinjamul's github stats" />
+    src="https://mrinjamul-readme-stats.vercel.app/api?username=mrinjamul&show_icons=true&theme=tokyonight&count_private=true" alt="mrinjamul's github stats" />
     <img
     height="160em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrinjamul&theme=tokyonight&layout=compact"
+    src="https://mrinjamul-readme-stats.vercel.app/api/top-langs/?username=mrinjamul&theme=tokyonight&layout=compact"
     alt="Top languages" />
 </a>
 <br/>
@@ -115,7 +109,4 @@ I ❤ Open Source.
   <img width="900" height="1" alt="" />
 </p>
 
-
 #### [mrinjamul](http://mrinjamul.github.io/)
-
-
