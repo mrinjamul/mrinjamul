@@ -7,47 +7,50 @@
 
 I ❤ Open Source.
 
-![snake svg](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.svg)
+
+
+![snake gif](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.gif)
 
 ## 🎬 My Activities
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (2 days ago)
-- [mrinjamul/authenticator-desktop](https://github.com/mrinjamul/authenticator-desktop) - Authenticator App for Desktop (1 week ago)
-- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) - The Science of Deduction: A Sherlock fan-based blogging site. (1 month ago)
-- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (2 months ago)
-- [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management. (2 months ago)
+- [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (1 month ago)
+- [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management. (1 month ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (1 month ago)
+- [1xcode/mrinjamul-static](https://github.com/1xcode/mrinjamul-static) - Those assets files for mrinjamul website (2 months ago)
+- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (4 months ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) ([v0.1.0](https://github.com/mrinjamul/the-science-of-deduction/releases/tag/v0.1.0), 1 month ago) - The Science of Deduction: A Sherlock fan-based blogging site.
-- [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) ([v1.1.2](https://github.com/mrinjamul/mrinjamul-auth/releases/tag/v1.1.2), 2 months ago) - A asymmetric JWT based authentication service for user management.
-- [goexec/goexec](https://github.com/goexec/goexec) ([v1.0.0](https://github.com/goexec/goexec/releases/tag/v1.0.0), 3 months ago) - A single liner to execute source code programs.
-- [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) ([v1.2.0](https://github.com/mrinjamul/mrinjamulcf-cli/releases/tag/v1.2.0), 4 months ago) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records.
-- [mrinjamul/gnote](https://github.com/mrinjamul/gnote) ([v0.1.1](https://github.com/mrinjamul/gnote/releases/tag/v0.1.1), 4 months ago) - A note taking web based application
+- [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) ([v1.1.0](https://github.com/mrinjamul/go-encryptor/releases/tag/v1.1.0), 7 months ago) - A simple File Encryptor
+- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) ([v0.1.0](https://github.com/mrinjamul/the-science-of-deduction/releases/tag/v0.1.0), 10 months ago) - The Science of Deduction:  A Sherlock fan-based blogging site.
+- [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) ([v1.1.2](https://github.com/mrinjamul/mrinjamul-auth/releases/tag/v1.1.2), 1 year ago) - A asymmetric JWT based authentication service for user management.
+- [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 1 year ago) - A start page for surfing the web.
+- [mrinjamul/go-json-server](https://github.com/mrinjamul/go-json-server) ([v1.0.2](https://github.com/mrinjamul/go-json-server/releases/tag/v1.0.2), 2 years ago) - A fake JSON API server. This is created for testing purposes and frontend development. It&#39;s not production-ready.
 
 #### ⭐ Latest repositories I starred
 
-- [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
+- [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 141466 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 156547 stars
 
 #### 👥 Latest follower
 
-- [AkshatRastogi-1nC0re](https://github.com/AkshatRastogi-1nC0re) - AKSHAT RASTOGI
+- [dilowar-hossain](https://github.com/dilowar-hossain) - Dilowar Hossain
+- [himanshu-prakash](https://github.com/himanshu-prakash) - 
+- [Hasibul89](https://github.com/Hasibul89) - Hasibul
 - [bipinbarman](https://github.com/bipinbarman) - Bipin Barman
 - [supriye](https://github.com/supriye) - Supriye Anand
-- [Upendra0](https://github.com/Upendra0) - Upendra Kumar
-- [jaak072](https://github.com/jaak072) - Jawed Akhtar
 
 #### 👨‍💻 Repositories I created recently
 
-- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) - The Science of Deduction: A Sherlock fan-based blogging site.
+- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) - The Science of Deduction:  A Sherlock fan-based blogging site.
 - [mrinjamul/authenticator-desktop](https://github.com/mrinjamul/authenticator-desktop) - Authenticator App for Desktop
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management.
 - [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records.
 - [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities.
+
 
 <p align="center">
   <details open><summary>Recent activity charts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
@@ -59,6 +62,7 @@ I ❤ Open Source.
   <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.code.svg" alt=""></img>
   <img width="900" height="1" alt="" />
 </p>
+
 
 ## I'm using
 
@@ -81,6 +85,8 @@ I ❤ Open Source.
 [![Docker](https://img.shields.io/badge/-Docker-%23eeeeee?style=flat-square&logo=docker&logoColor=%23007ACC)]()
 
 ## 𝗦𝘁𝗮𝘁𝘀
+
+
 
 <a href="https://github.com/mrinjamul">
     <img
@@ -109,4 +115,7 @@ I ❤ Open Source.
   <img width="900" height="1" alt="" />
 </p>
 
+
 #### [mrinjamul](http://mrinjamul.github.io/)
+
+
