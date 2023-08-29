@@ -7,9 +7,9 @@
 
 I ❤ Open Source.
 
-![snake svg](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.svg)
+<!-- ![snake svg](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.svg) -->
 
-<!-- ![snake gif](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.gif) -->
+![snake gif](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.gif)
 
 ## 🎬 My Activities
 
