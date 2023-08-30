@@ -7,9 +7,9 @@
 
 I ❤ Open Source.
 
+![snake svg](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.svg)
 
 
-![snake gif](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.gif)
 
 ## 🎬 My Activities
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 156547 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 156621 stars
 
 #### 👥 Latest follower
 
