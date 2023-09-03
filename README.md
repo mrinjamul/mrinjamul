@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 156732 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 156767 stars
 
 #### 👥 Latest follower
 
