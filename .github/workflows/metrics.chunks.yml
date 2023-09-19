@@ -70,15 +70,21 @@ jobs:
       #     plugin_repositories_featured: mrinjamul/go-secret
 
       - name: GitHub Skyline
-        uses: lowlighter/metrics@v3.31
+        uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.skyline.svg
+          filename: metrics.plugin.skyline.city.svg
           token: NOT_NEEDED
           base: ""
           plugin_skyline: yes
-          plugin_skyline_year: current
-          plugin_skyline_frames: 30
+          plugin_skyline_frames: 23
           plugin_skyline_quality: 1
+          plugin_skyline_settings: |
+            {
+              "url": "https://honzaap.github.io/GithubCity?name=${login}&year=${year}",
+              "ready": "[...document.querySelectorAll('.display-info span')].map(span => span.innerText).includes('${login}')",
+              "wait": 4,
+              "hide": ".github-corner, .footer-link, .buttons-options, .mobile-rotate, .display-info span:first-child"
+            }
 
       # - name: Screenshot Website
       #   uses: lowlighter/metrics@v3.31
