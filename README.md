@@ -15,15 +15,15 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [friendly-fly/SRM-frontend](https://github.com/friendly-fly/SRM-frontend) - SRM: a CRM frontend (1 day ago)
+- [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) - A simple File Encryptor (today)
+- [friendly-fly/SRM-frontend](https://github.com/friendly-fly/SRM-frontend) - SRM: a CRM frontend (2 days ago)
 - [hexterror/hexterror.github.io](https://github.com/hexterror/hexterror.github.io) - Our Website domain (1 week ago)
 - [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (2 months ago)
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management. (2 months ago)
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (2 months ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) ([v1.1.0](https://github.com/mrinjamul/go-encryptor/releases/tag/v1.1.0), 7 months ago) - A simple File Encryptor
+- [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) ([v1.1.0](https://github.com/mrinjamul/go-encryptor/releases/tag/v1.1.0), today) - A simple File Encryptor
 - [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) ([v0.1.0](https://github.com/mrinjamul/the-science-of-deduction/releases/tag/v0.1.0), 11 months ago) - The Science of Deduction:  A Sherlock fan-based blogging site.
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) ([v1.1.2](https://github.com/mrinjamul/mrinjamul-auth/releases/tag/v1.1.2), 1 year ago) - A asymmetric JWT based authentication service for user management.
 - [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 1 year ago) - A start page for surfing the web.
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 157609 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 157665 stars
 
 #### 👥 Latest follower
 
