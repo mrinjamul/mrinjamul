@@ -9,46 +9,34 @@ I ❤ Open Source.
 
 ![snake svg](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.svg)
 
-
+<!-- ![snake gif](https://github.com/mrinjamul/mrinjamul/blob/dist/github-contribution-grid-snake.gif) -->
 
 ## 🎬 My Activities
 
 #### 👷 I'm currently working on
-
-- [mrinjamul/gitignore-service](https://github.com/mrinjamul/gitignore-service) - A web service to help you with [dot] gitgnore files for git repositories. (today)
-- [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (1 week ago)
-- [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (2 months ago)
-- [mrinjamul/simple-jekyll](https://github.com/mrinjamul/simple-jekyll) - Simple is simpliest jekyll theme. Just turn markdown into website. Highly customizable. (3 months ago)
-- [mrinjamul/pocket-memory](https://github.com/mrinjamul/pocket-memory) - A Photo Gallery App (6 months ago)
+{{range recentContributions 5}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+  {{- end}}
 
 #### 🚀 Latest releases I contributed to
-
-- [mrinjamul/mess-management-backend](https://github.com/mrinjamul/mess-management-backend) ([v1.0.0-pre](https://github.com/mrinjamul/mess-management-backend/releases/tag/v1.0.0-pre), 10 months ago) - This system is designed to help manage our Mess. It is used to manage members, attendance, transactions and generate billing per month for members based on their attendance. This is the complete solution to digitalize a traditional food mess system.
-- [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) ([v1.1.0](https://github.com/mrinjamul/go-encryptor/releases/tag/v1.1.0), 11 months ago) - A simple File Encryptor
-- [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 2 years ago) - A start page for surfing the web.
-- [mrinjamul/simple-jekyll](https://github.com/mrinjamul/simple-jekyll) ([v1.0.0](https://github.com/mrinjamul/simple-jekyll/releases/tag/v1.0.0), 3 years ago) - Simple is simpliest jekyll theme. Just turn markdown into website. Highly customizable.
+{{range recentReleases 5}}
+- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}}){{ with .Description }} - {{.}}{{ end }}
+  {{- end}}
 
 #### ⭐ Latest repositories I starred
-
-- [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
-- [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 176563 stars
+{{range recentStars 10}}
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} - {{.Repo.Stargazers}} stars
+  {{- end}}
 
 #### 👥 Latest follower
-
-- [PapriBoyra](https://github.com/PapriBoyra) - Papri Boyra
-- [dilowar-hossain](https://github.com/dilowar-hossain) - Dilowar Hossain
-- [Gourab-dve360](https://github.com/Gourab-dve360) - Gourab Bhattacharjee
-- [himanshu-prakash](https://github.com/himanshu-prakash) - HIMANSHU PRAKASH
-- [Hasibul89](https://github.com/Hasibul89) - Hasibul
+{{range followers 5}}
+- [{{.Login}}]({{.URL}}) - {{.Name}}
+  {{- end}}
 
 #### 👨‍💻 Repositories I created recently
-
-- [mrinjamul/gitignore-service](https://github.com/mrinjamul/gitignore-service) - A web service to help you with [dot] gitgnore files for git repositories.
-- [mrinjamul/pocket-memory](https://github.com/mrinjamul/pocket-memory) - A Photo Gallery App
-- [mrinjamul/mess-management-backend](https://github.com/mrinjamul/mess-management-backend) - This system is designed to help manage our Mess. It is used to manage members, attendance, transactions and generate billing per month for members based on their attendance. This is the complete solution to digitalize a traditional food mess system.
-- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) - The Science of Deduction:  A Sherlock fan-based blogging site.
-- [mrinjamul/authenticator-desktop](https://github.com/mrinjamul/authenticator-desktop) - Authenticator App for Desktop
+{{range recentRepos 5}}
+- [{{.Name}}]({{.URL}}){{ with .Description }} - {{.}}{{ end }}
+  {{- end}}
 
 
 <p align="center">
@@ -85,7 +73,7 @@ I ❤ Open Source.
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-
+<!--[![mrinjamul](https://github-profile-trophy.vercel.app/?username=mrinjamul)]()-->
 
 <a href="https://github.com/mrinjamul">
     <img
@@ -117,4 +105,17 @@ I ❤ Open Source.
 
 #### [mrinjamul](http://mrinjamul.github.io/)
 
+<!--
+**mrinjamul/mrinjamul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
