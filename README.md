@@ -15,11 +15,11 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
+- [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (1 day ago)
 - [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) - A simple File Encryptor (1 week ago)
 - [friendly-fly/SRM-frontend](https://github.com/friendly-fly/SRM-frontend) - SRM: a CRM frontend (1 week ago)
 - [hexterror/hexterror.github.io](https://github.com/hexterror/hexterror.github.io) - Our Website domain (2 weeks ago)
 - [mrinjamul/go-utils](https://github.com/mrinjamul/go-utils) - A Go package for various useful utilities. (2 months ago)
-- [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management. (2 months ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 158022 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 158088 stars
 
 #### 👥 Latest follower
 
