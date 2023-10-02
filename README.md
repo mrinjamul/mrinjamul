@@ -15,8 +15,8 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (2 days ago)
-- [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (5 days ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (3 days ago)
+- [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (6 days ago)
 - [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) - A simple File Encryptor (1 week ago)
 - [friendly-fly/SRM-frontend](https://github.com/friendly-fly/SRM-frontend) - SRM: a CRM frontend (2 weeks ago)
 - [hexterror/hexterror.github.io](https://github.com/hexterror/hexterror.github.io) - Our Website domain (3 weeks ago)
@@ -33,15 +33,15 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 158276 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 158319 stars
 
 #### 👥 Latest follower
 
+- [Gourab-dve360](https://github.com/Gourab-dve360) - Gourab Bhattacharjee
 - [dilowar-hossain](https://github.com/dilowar-hossain) - Dilowar Hossain
 - [himanshu-prakash](https://github.com/himanshu-prakash) - 
 - [Hasibul89](https://github.com/Hasibul89) - Hasibul
 - [bipinbarman](https://github.com/bipinbarman) - Bipin Barman
-- [supriye](https://github.com/supriye) - Supriye Anand
 
 #### 👨‍💻 Repositories I created recently
 
