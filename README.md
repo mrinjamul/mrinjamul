@@ -15,16 +15,16 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/mess-management-backend](https://github.com/mrinjamul/mess-management-backend) - This system is designed to help manage our Mess. It is used to members, attendance, transactions and generate billing per month for members based on their attendence. (today)
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (6 days ago)
+- [mrinjamul/mess-management-backend](https://github.com/mrinjamul/mess-management-backend) - This system is designed to help manage our Mess. It is used to members, attendance, transactions and generate billing per month for members based on their attendence. (1 day ago)
+- [manish7479dlp/AKHP](https://github.com/manish7479dlp/AKHP) -  (1 day ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (1 week ago)
 - [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (1 week ago)
 - [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) - A simple File Encryptor (2 weeks ago)
-- [friendly-fly/SRM-frontend](https://github.com/friendly-fly/SRM-frontend) - SRM: a CRM frontend (2 weeks ago)
 
 #### 🚀 Latest releases I contributed to
 
 - [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) ([v1.1.0](https://github.com/mrinjamul/go-encryptor/releases/tag/v1.1.0), 2 weeks ago) - A simple File Encryptor
-- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) ([v0.1.0](https://github.com/mrinjamul/the-science-of-deduction/releases/tag/v0.1.0), 11 months ago) - The Science of Deduction:  A Sherlock fan-based blogging site.
+- [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) ([v0.1.0](https://github.com/mrinjamul/the-science-of-deduction/releases/tag/v0.1.0), 1 year ago) - The Science of Deduction:  A Sherlock fan-based blogging site.
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) ([v1.1.2](https://github.com/mrinjamul/mrinjamul-auth/releases/tag/v1.1.2), 1 year ago) - A asymmetric JWT based authentication service for user management.
 - [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 1 year ago) - A start page for surfing the web.
 - [mrinjamul/go-json-server](https://github.com/mrinjamul/go-json-server) ([v1.0.2](https://github.com/mrinjamul/go-json-server/releases/tag/v1.0.2), 2 years ago) - A fake JSON API server. This is created for testing purposes and frontend development. It&#39;s not production-ready.
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 158452 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 158492 stars
 
 #### 👥 Latest follower
 
