@@ -15,7 +15,7 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (1 day ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (2 days ago)
 - [mrinjamul/mess-management-backend](https://github.com/mrinjamul/mess-management-backend) - This system is designed to help manage our Mess. It is used to members, attendance, transactions and generate billing per month for members based on their attendance. This is the complete solution to digitalize a traditional food mess system. (1 week ago)
 - [manish7479dlp/AKHP](https://github.com/manish7479dlp/AKHP) -  (2 weeks ago)
 - [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (1 month ago)
@@ -33,12 +33,12 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 159598 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 159659 stars
 
 #### 👥 Latest follower
 
-- [Gourab-dve360](https://github.com/Gourab-dve360) - Gourab Bhattacharjee
 - [dilowar-hossain](https://github.com/dilowar-hossain) - Dilowar Hossain
+- [Gourab-dve360](https://github.com/Gourab-dve360) - Gourab Bhattacharjee
 - [himanshu-prakash](https://github.com/himanshu-prakash) - 
 - [Hasibul89](https://github.com/Hasibul89) - Hasibul
 - [bipinbarman](https://github.com/bipinbarman) - Bipin Barman
