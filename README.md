@@ -18,7 +18,7 @@ I ❤ Open Source.
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (2 months ago)
 - [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (2 months ago)
 - [mrinjamul/mess-management-backend](https://github.com/mrinjamul/mess-management-backend) - This system is designed to help manage our Mess. It is used to manage members, attendance, transactions and generate billing per month for members based on their attendance. This is the complete solution to digitalize a traditional food mess system. (2 months ago)
-- [manish7479dlp/AKHP](https://github.com/manish7479dlp/AKHP) -  (3 months ago)
+- [manish7479dlp/AKHP](https://github.com/manish7479dlp/AKHP) -  (4 months ago)
 - [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (4 months ago)
 
 #### 🚀 Latest releases I contributed to
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 165495 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 165559 stars
 
 #### 👥 Latest follower
 
