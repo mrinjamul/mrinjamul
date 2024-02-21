@@ -15,11 +15,11 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
+- [mrinjamul/pocket-memory](https://github.com/mrinjamul/pocket-memory) - A Photo Gallery App (today)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (2 months ago)
 - [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (3 months ago)
 - [mrinjamul/mess-management-backend](https://github.com/mrinjamul/mess-management-backend) - This system is designed to help manage our Mess. It is used to manage members, attendance, transactions and generate billing per month for members based on their attendance. This is the complete solution to digitalize a traditional food mess system. (3 months ago)
 - [manish7479dlp/AKHP](https://github.com/manish7479dlp/AKHP) -  (4 months ago)
-- [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (4 months ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 166125 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 166176 stars
 
 #### 👥 Latest follower
 
@@ -45,11 +45,11 @@ I ❤ Open Source.
 
 #### 👨‍💻 Repositories I created recently
 
+- [mrinjamul/pocket-memory](https://github.com/mrinjamul/pocket-memory) - A Photo Gallery App
 - [mrinjamul/mess-management-backend](https://github.com/mrinjamul/mess-management-backend) - This system is designed to help manage our Mess. It is used to manage members, attendance, transactions and generate billing per month for members based on their attendance. This is the complete solution to digitalize a traditional food mess system.
 - [mrinjamul/the-science-of-deduction](https://github.com/mrinjamul/the-science-of-deduction) - The Science of Deduction:  A Sherlock fan-based blogging site.
 - [mrinjamul/authenticator-desktop](https://github.com/mrinjamul/authenticator-desktop) - Authenticator App for Desktop
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) - A asymmetric JWT based authentication service for user management.
-- [mrinjamul/mrinjamulcf-cli](https://github.com/mrinjamul/mrinjamulcf-cli) - [Public] A CLI to interact with Cloudflare API and manipulate DNS records.
 
 
 <p align="center">
