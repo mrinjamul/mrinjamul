@@ -15,7 +15,7 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (3 weeks ago)
+- [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (4 weeks ago)
 - [mrinjamul/pocket-memory](https://github.com/mrinjamul/pocket-memory) - A Photo Gallery App (1 month ago)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (4 months ago)
 - [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (4 months ago)
@@ -32,7 +32,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 168722 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 168785 stars
 
 #### 👥 Latest follower
 
