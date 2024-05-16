@@ -18,13 +18,13 @@ I ❤ Open Source.
 - [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (2 months ago)
 - [mrinjamul/pocket-memory](https://github.com/mrinjamul/pocket-memory) - A Photo Gallery App (2 months ago)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (5 months ago)
-- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (5 months ago)
+- [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (6 months ago)
 - [mrinjamul/mess-management-backend](https://github.com/mrinjamul/mess-management-backend) - This system is designed to help manage our Mess. It is used to manage members, attendance, transactions and generate billing per month for members based on their attendance. This is the complete solution to digitalize a traditional food mess system. (6 months ago)
 
 #### 🚀 Latest releases I contributed to
 
 - [mrinjamul/mess-management-backend](https://github.com/mrinjamul/mess-management-backend) ([v1.0.0-pre](https://github.com/mrinjamul/mess-management-backend/releases/tag/v1.0.0-pre), 7 months ago) - This system is designed to help manage our Mess. It is used to manage members, attendance, transactions and generate billing per month for members based on their attendance. This is the complete solution to digitalize a traditional food mess system.
-- [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) ([v1.1.0](https://github.com/mrinjamul/go-encryptor/releases/tag/v1.1.0), 7 months ago) - A simple File Encryptor
+- [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) ([v1.1.0](https://github.com/mrinjamul/go-encryptor/releases/tag/v1.1.0), 8 months ago) - A simple File Encryptor
 - [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) ([v1.1.2](https://github.com/mrinjamul/mrinjamul-auth/releases/tag/v1.1.2), 2 years ago) - A asymmetric JWT based authentication service for user management.
 - [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 2 years ago) - A start page for surfing the web.
 
@@ -32,7 +32,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 7 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 171441 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 171490 stars
 
 #### 👥 Latest follower
 
