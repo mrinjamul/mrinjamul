@@ -17,7 +17,7 @@ I ❤ Open Source.
 
 - [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (3 weeks ago)
 - [mrinjamul/simple-jekyll](https://github.com/mrinjamul/simple-jekyll) - Simple is simpliest jekyll theme. Just turn markdown into website. Highly customizable. (1 month ago)
-- [mrinjamul/pocket-memory](https://github.com/mrinjamul/pocket-memory) - A Photo Gallery App (3 months ago)
+- [mrinjamul/pocket-memory](https://github.com/mrinjamul/pocket-memory) - A Photo Gallery App (4 months ago)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (6 months ago)
 - [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (7 months ago)
 
@@ -33,7 +33,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 173355 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 173403 stars
 
 #### 👥 Latest follower
 
