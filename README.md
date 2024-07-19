@@ -25,7 +25,6 @@ I ❤ Open Source.
 
 - [mrinjamul/mess-management-backend](https://github.com/mrinjamul/mess-management-backend) ([v1.0.0-pre](https://github.com/mrinjamul/mess-management-backend/releases/tag/v1.0.0-pre), 9 months ago) - This system is designed to help manage our Mess. It is used to manage members, attendance, transactions and generate billing per month for members based on their attendance. This is the complete solution to digitalize a traditional food mess system.
 - [mrinjamul/go-encryptor](https://github.com/mrinjamul/go-encryptor) ([v1.1.0](https://github.com/mrinjamul/go-encryptor/releases/tag/v1.1.0), 10 months ago) - A simple File Encryptor
-- [mrinjamul/mrinjamul-auth](https://github.com/mrinjamul/mrinjamul-auth) ([v1.1.2](https://github.com/mrinjamul/mrinjamul-auth/releases/tag/v1.1.2), 2 years ago) - A asymmetric JWT based authentication service for user management.
 - [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 2 years ago) - A start page for surfing the web.
 - [mrinjamul/simple-jekyll](https://github.com/mrinjamul/simple-jekyll) ([v1.0.0](https://github.com/mrinjamul/simple-jekyll/releases/tag/v1.0.0), 3 years ago) - Simple is simpliest jekyll theme. Just turn markdown into website. Highly customizable.
 
@@ -33,7 +32,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 174876 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 174941 stars
 
 #### 👥 Latest follower
 
