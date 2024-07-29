@@ -15,10 +15,10 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (1 month ago)
+- [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (2 months ago)
 - [mrinjamul/simple-jekyll](https://github.com/mrinjamul/simple-jekyll) - Simple is simpliest jekyll theme. Just turn markdown into website. Highly customizable. (2 months ago)
 - [mrinjamul/pocket-memory](https://github.com/mrinjamul/pocket-memory) - A Photo Gallery App (5 months ago)
-- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (7 months ago)
+- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (8 months ago)
 - [mrinjamul/college-schedule](https://github.com/mrinjamul/college-schedule) - This is my college schedule App at https://mrinjamul.github.io/college-schedule (8 months ago)
 
 #### 🚀 Latest releases I contributed to
@@ -32,7 +32,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 175402 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 175443 stars
 
 #### 👥 Latest follower
 
