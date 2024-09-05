@@ -32,15 +32,15 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 177650 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 177719 stars
 
 #### 👥 Latest follower
 
+- [devopstoday11](https://github.com/devopstoday11) - Chandu Paladugu
 - [PapriBoyra](https://github.com/PapriBoyra) - Papri Boyra
 - [dilowar-hossain](https://github.com/dilowar-hossain) - Dilowar Hossain
 - [Gourab-dve360](https://github.com/Gourab-dve360) - Gourab Bhattacharjee
 - [himanshu-prakash](https://github.com/himanshu-prakash) - HIMANSHU PRAKASH
-- [Hasibul89](https://github.com/Hasibul89) - Hasibul
 
 #### 👨‍💻 Repositories I created recently
 
