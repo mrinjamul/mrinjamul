@@ -15,8 +15,8 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (3 days ago)
-- [mrinjamul/gitignore-service](https://github.com/mrinjamul/gitignore-service) - A web service to help you with [dot] gitgnore files for git repositories. (4 weeks ago)
+- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (4 days ago)
+- [mrinjamul/gitignore-service](https://github.com/mrinjamul/gitignore-service) - A web service to help you with [dot] gitgnore files for git repositories. (1 month ago)
 - [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (1 month ago)
 - [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (3 months ago)
 - [mrinjamul/simple-jekyll](https://github.com/mrinjamul/simple-jekyll) - Simple is simpliest jekyll theme. Just turn markdown into website. Highly customizable. (4 months ago)
@@ -32,7 +32,7 @@ I ❤ Open Source.
 
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 178582 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 178642 stars
 
 #### 👥 Latest follower
 
