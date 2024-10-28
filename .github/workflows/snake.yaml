@@ -50,7 +50,7 @@ jobs:
           branch: master
           force: true
 
-      - uses: crazy-max/ghaction-github-pages@v4.0.0
+      - uses: crazy-max/ghaction-github-pages@v4.1.0
         with:
           # the output branch we mentioned above
           target_branch: dist
