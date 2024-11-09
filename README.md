@@ -29,12 +29,12 @@ I ❤ Open Source.
 
 #### ⭐ Latest repositories I starred
 
-- [tech-thinker/totp](https://github.com/tech-thinker/totp) - TOTP is a Time Based OTP library in golang for server side and client side both. - 1 stars
+- [tech-thinker/totp](https://github.com/tech-thinker/totp) - TOTP is a Time Based OTP library in golang for server side and client side both. - 2 stars
 - [tech-thinker/chatz-action](https://github.com/tech-thinker/chatz-action) - chatz actions for github workflow. - 3 stars
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 182018 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 182088 stars
 
 #### 👥 Latest follower
 
