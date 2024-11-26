@@ -19,7 +19,7 @@ I ❤ Open Source.
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (2 months ago)
 - [mrinjamul/gitignore-service](https://github.com/mrinjamul/gitignore-service) - A web service to help you with [dot] gitgnore files for git repositories. (3 months ago)
 - [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (3 months ago)
-- [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (5 months ago)
+- [friendly-fly/SRM-deployment](https://github.com/friendly-fly/SRM-deployment) - Deployment (6 months ago)
 
 #### 🚀 Latest releases I contributed to
 
@@ -34,7 +34,7 @@ I ❤ Open Source.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 183157 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 183210 stars
 
 #### 👥 Latest follower
 
