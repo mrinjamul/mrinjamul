@@ -17,7 +17,7 @@ I ❤ Open Source.
 
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. (1 month ago)
 - [tech-thinker/homebrew-tap](https://github.com/tech-thinker/homebrew-tap) - Home brew package distribution repository. (3 months ago)
-- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (3 months ago)
+- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (4 months ago)
 - [mrinjamul/gitignore-service](https://github.com/mrinjamul/gitignore-service) - A web service to help you with [dot] gitgnore files for git repositories. (4 months ago)
 - [mrinjamul/dotfiles](https://github.com/mrinjamul/dotfiles) - 📦 all my configs are stored here (5 months ago)
 
@@ -34,7 +34,7 @@ I ❤ Open Source.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 185712 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 185754 stars
 
 #### 👥 Latest follower
 
