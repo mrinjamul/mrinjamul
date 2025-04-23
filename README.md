@@ -23,19 +23,21 @@ I ❤ Open Source.
 
 #### 🚀 Latest releases I contributed to
 
-- [tech-thinker/telepath](https://github.com/tech-thinker/telepath) ([v1.0.2](https://github.com/tech-thinker/telepath/releases/tag/v1.0.2), 6 days ago) - A powerful CLI tool for secure port forwarding with support for multiple jump hosts and flexible authentication.
+- [tech-thinker/telepath](https://github.com/tech-thinker/telepath) ([v1.0.2](https://github.com/tech-thinker/telepath/releases/tag/v1.0.2), 1 week ago) - A powerful CLI tool for secure port forwarding with support for multiple jump hosts and flexible authentication.
 - [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 2 years ago) - A start page for surfing the web.
 - [mrinjamul/simple-jekyll](https://github.com/mrinjamul/simple-jekyll) ([v1.0.0](https://github.com/mrinjamul/simple-jekyll/releases/tag/v1.0.0), 3 years ago) - Simple is simpliest jekyll theme. Just turn markdown into website. Highly customizable.
 
 #### ⭐ Latest repositories I starred
 
+- [mrasif/neural-network-go](https://github.com/mrasif/neural-network-go) - Neural Network from Scratch using golang - 1 stars
+- [mrinjamul/neural-network-go](https://github.com/mrinjamul/neural-network-go) - Neural Network from Scratch using golang - 1 stars
 - [tech-thinker/dockerfiles](https://github.com/tech-thinker/dockerfiles) - This is the repository for all private docker files. - 1 stars
 - [tech-thinker/totp](https://github.com/tech-thinker/totp) - TOTP is a Time Based OTP library in golang for server side and client side both. - 2 stars
 - [tech-thinker/chatz-action](https://github.com/tech-thinker/chatz-action) - chatz actions for github workflow. - 3 stars
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 6 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 192066 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 192133 stars
 
 #### 👥 Latest follower
 
