@@ -18,7 +18,7 @@ I ❤ Open Source.
 - [tech-thinker/telepath](https://github.com/tech-thinker/telepath) - A powerful CLI tool for secure port forwarding with support for multiple jump hosts and flexible authentication. (3 months ago)
 - [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. (5 months ago)
 - [tech-thinker/homebrew-tap](https://github.com/tech-thinker/homebrew-tap) - Home brew package distribution repository. (7 months ago)
-- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (7 months ago)
+- [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (8 months ago)
 - [mrinjamul/gitignore-service](https://github.com/mrinjamul/gitignore-service) - A web service to help you with [dot] gitgnore files for git repositories. (8 months ago)
 
 #### 🚀 Latest releases I contributed to
@@ -34,10 +34,10 @@ I ❤ Open Source.
 - [tech-thinker/dockerfiles](https://github.com/tech-thinker/dockerfiles) - This is the repository for all private docker files. - 1 stars
 - [tech-thinker/totp](https://github.com/tech-thinker/totp) - TOTP is a Time Based OTP library in golang for server side and client side both. - 2 stars
 - [tech-thinker/chatz-action](https://github.com/tech-thinker/chatz-action) - chatz actions for github workflow. - 3 stars
-- [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
+- [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 3 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 6 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 193304 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 193359 stars
 
 #### 👥 Latest follower
 
