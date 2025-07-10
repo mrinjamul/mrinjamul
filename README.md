@@ -36,7 +36,7 @@ I ❤ Open Source.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 3 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 6 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 197230 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 197317 stars
 
 #### 👥 Latest follower
 
