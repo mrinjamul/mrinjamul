@@ -16,7 +16,7 @@ I ❤ Open Source.
 #### 👷 I'm currently working on
 
 - [tech-thinker/telepath](https://github.com/tech-thinker/telepath) - A powerful CLI tool for secure port forwarding with support for multiple jump hosts and flexible authentication. (6 months ago)
-- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. (7 months ago)
+- [is-a-dev/register](https://github.com/is-a-dev/register) - Grab your own sweet-looking &#39;.is-a.dev&#39; subdomain. (8 months ago)
 - [tech-thinker/homebrew-tap](https://github.com/tech-thinker/homebrew-tap) - Home brew package distribution repository. (10 months ago)
 - [mrinjamul/start](https://github.com/mrinjamul/start) - A start page for surfing the web. (10 months ago)
 - [mrinjamul/gitignore-service](https://github.com/mrinjamul/gitignore-service) - A web service to help you with [dot] gitgnore files for git repositories. (11 months ago)
@@ -36,7 +36,7 @@ I ❤ Open Source.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 3 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 198341 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 198397 stars
 
 #### 👥 Latest follower
 
