@@ -23,7 +23,7 @@ I ❤ Open Source.
 
 #### 🚀 Latest releases I contributed to
 
-- [tech-thinker/chatz](https://github.com/tech-thinker/chatz) ([v1.2.3](https://github.com/tech-thinker/chatz/releases/tag/v1.2.3), 6 days ago) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications.
+- [tech-thinker/chatz](https://github.com/tech-thinker/chatz) ([v1.2.3](https://github.com/tech-thinker/chatz/releases/tag/v1.2.3), 1 week ago) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications.
 - [mrinjamul/flareship](https://github.com/mrinjamul/flareship) ([v2.1.0](https://github.com/mrinjamul/flareship/releases/tag/v2.1.0), 3 weeks ago) -  A CLI to interact with Cloudflare API and manipulate DNS records.
 - [tech-thinker/telepath](https://github.com/tech-thinker/telepath) ([v1.0.2](https://github.com/tech-thinker/telepath/releases/tag/v1.0.2), 4 months ago) - A powerful CLI tool for secure port forwarding with support for multiple jump hosts and flexible authentication.
 - [mrinjamul/start](https://github.com/mrinjamul/start) ([v1.1.0](https://github.com/mrinjamul/start/releases/tag/v1.1.0), 3 years ago) - A start page for surfing the web.
@@ -38,7 +38,7 @@ I ❤ Open Source.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 201055 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 201104 stars
 
 #### 👥 Latest follower
 
