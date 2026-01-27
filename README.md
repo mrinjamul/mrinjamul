@@ -23,7 +23,6 @@ I ❤ Open Source.
 
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) ([v1.2.3](https://github.com/tech-thinker/chatz/releases/tag/v1.2.3), 5 months ago) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications.
 - [mrinjamul/flareship](https://github.com/mrinjamul/flareship) ([v2.1.0](https://github.com/mrinjamul/flareship/releases/tag/v2.1.0), 5 months ago) -  A CLI to interact with Cloudflare API and manipulate DNS records.
-- [tech-thinker/telepath](https://github.com/tech-thinker/telepath) ([v1.0.2](https://github.com/tech-thinker/telepath/releases/tag/v1.0.2), 9 months ago) - A powerful CLI tool for secure port forwarding with support for multiple jump hosts and flexible authentication.
 
 #### ⭐ Latest repositories I starred
 
@@ -35,7 +34,7 @@ I ❤ Open Source.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 215205 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 215303 stars
 
 #### 👥 Latest follower
 
