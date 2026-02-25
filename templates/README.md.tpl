@@ -40,13 +40,13 @@ I ❤ Open Source.
 
 
 <p align="center">
-  <details open><summary>Recent activity charts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
-  <details open><summary>Midly interesting facts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.facts.svg" alt=""></img></details>
+  <details open><summary>Recent activity charts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/master/metrics.plugin.habits.charts.svg" alt=""></img></details>
+  <details open><summary>Midly interesting facts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/master/metrics.plugin.habits.facts.svg" alt=""></img></details>
       <img width="900" height="1" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.code.svg" alt=""></img>
+  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/master/metrics.plugin.code.svg" alt=""></img>
   <img width="900" height="1" alt="" />
 </p>
 
@@ -98,7 +98,7 @@ I ❤ Open Source.
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.skyline.svg" alt="Skyline Current" />
+  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/master/metrics.plugin.skyline.svg" alt="Skyline Current" />
   <img width="900" height="1" alt="" />
 </p>
 
