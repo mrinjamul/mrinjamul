@@ -25,7 +25,7 @@ I ❤ Open Source.
 
 #### ⭐ Latest repositories I starred
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - 226315 stars
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - 226316 stars
 - [mrasif/neural-network-go](https://github.com/mrasif/neural-network-go) - Neural Network from Scratch using golang - 1 stars
 - [mrinjamul/neural-network-go](https://github.com/mrinjamul/neural-network-go) - Neural Network from Scratch using golang - 1 stars
 - [tech-thinker/dockerfiles](https://github.com/tech-thinker/dockerfiles) - This is the repository for all private docker files. - 1 stars
