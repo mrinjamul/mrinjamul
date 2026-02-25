@@ -25,7 +25,7 @@ I ❤ Open Source.
 
 #### ⭐ Latest repositories I starred
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - 226316 stars
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - 226338 stars
 - [mrasif/neural-network-go](https://github.com/mrasif/neural-network-go) - Neural Network from Scratch using golang - 1 stars
 - [mrinjamul/neural-network-go](https://github.com/mrinjamul/neural-network-go) - Neural Network from Scratch using golang - 1 stars
 - [tech-thinker/dockerfiles](https://github.com/tech-thinker/dockerfiles) - This is the repository for all private docker files. - 1 stars
@@ -34,7 +34,7 @@ I ❤ Open Source.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 218632 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 218636 stars
 
 #### 👥 Latest follower
 
@@ -54,13 +54,13 @@ I ❤ Open Source.
 
 
 <p align="center">
-  <details open><summary>Recent activity charts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.charts.svg" alt=""></img></details>
-  <details open><summary>Midly interesting facts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.habits.facts.svg" alt=""></img></details>
+  <details open><summary>Recent activity charts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/master/metrics.plugin.habits.charts.svg" alt=""></img></details>
+  <details open><summary>Midly interesting facts</summary><img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/master/metrics.plugin.habits.facts.svg" alt=""></img></details>
       <img width="900" height="1" alt="" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.code.svg" alt=""></img>
+  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/master/metrics.plugin.code.svg" alt=""></img>
   <img width="900" height="1" alt="" />
 </p>
 
@@ -112,7 +112,7 @@ I ❤ Open Source.
 <br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/main/metrics.plugin.skyline.svg" alt="Skyline Current" />
+  <img src="https://raw.githubusercontent.com/mrinjamul/mrinjamul/master/metrics.plugin.skyline.svg" alt="Skyline Current" />
   <img width="900" height="1" alt="" />
 </p>
 
