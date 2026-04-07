@@ -16,16 +16,16 @@ I ❤ Open Source.
 #### 👷 I'm currently working on
 
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. (7 months ago)
-- [mrinjamul/flareship](https://github.com/mrinjamul/flareship) -  A CLI to interact with Cloudflare API and manipulate DNS records. (7 months ago)
+- [mrinjamul/flareship](https://github.com/mrinjamul/flareship) -  A CLI to interact with Cloudflare API and manipulate DNS records. (8 months ago)
 
 #### 🚀 Latest releases I contributed to
 
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) ([v1.2.3](https://github.com/tech-thinker/chatz/releases/tag/v1.2.3), 7 months ago) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications.
-- [mrinjamul/flareship](https://github.com/mrinjamul/flareship) ([v2.1.0](https://github.com/mrinjamul/flareship/releases/tag/v2.1.0), 7 months ago) -  A CLI to interact with Cloudflare API and manipulate DNS records.
+- [mrinjamul/flareship](https://github.com/mrinjamul/flareship) ([v2.1.0](https://github.com/mrinjamul/flareship/releases/tag/v2.1.0), 8 months ago) -  A CLI to interact with Cloudflare API and manipulate DNS records.
 
 #### ⭐ Latest repositories I starred
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - 349089 stars
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  - 350179 stars
 - [mrasif/neural-network-go](https://github.com/mrasif/neural-network-go) - Neural Network from Scratch using golang - 1 stars
 - [mrinjamul/neural-network-go](https://github.com/mrinjamul/neural-network-go) - Neural Network from Scratch using golang - 1 stars
 - [tech-thinker/dockerfiles](https://github.com/tech-thinker/dockerfiles) - This is the repository for all private docker files. - 1 stars
@@ -34,7 +34,7 @@ I ❤ Open Source.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 227117 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 227259 stars
 
 #### 👥 Latest follower
 
