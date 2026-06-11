@@ -15,15 +15,15 @@ I ❤ Open Source.
 
 #### 👷 I'm currently working on
 
-- [mrinjamul/TwinHunter](https://github.com/mrinjamul/TwinHunter) - Duplicate File Finder. (3 weeks ago)
+- [mrinjamul/TwinHunter](https://github.com/mrinjamul/TwinHunter) - Duplicate File Finder. (4 weeks ago)
 - [mrinjamul/cipherix](https://github.com/mrinjamul/cipherix) - A command-line file encryption tool written in Go. Supports AES-256-GCM, XChaCha20-Poly1305, and X25519 public-key encryption with a unified 64 KiB chunked AEAD format. Includes a built-in keystore for managing encryption keys, shell completion, and a streaming tar library for directory encryption. (4 weeks ago)
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. (9 months ago)
 - [mrinjamul/flareship](https://github.com/mrinjamul/flareship) -  A CLI to interact with Cloudflare API and manipulate DNS records. (10 months ago)
 
 #### 🚀 Latest releases I contributed to
 
-- [mrinjamul/TwinHunter](https://github.com/mrinjamul/TwinHunter) ([v1.1.0](https://github.com/mrinjamul/TwinHunter/releases/tag/v1.1.0), 3 weeks ago) - Duplicate File Finder.
-- [mrinjamul/cipherix](https://github.com/mrinjamul/cipherix) ([v3.1.0](https://github.com/mrinjamul/cipherix/releases/tag/v3.1.0), 4 weeks ago) - A command-line file encryption tool written in Go. Supports AES-256-GCM, XChaCha20-Poly1305, and X25519 public-key encryption with a unified 64 KiB chunked AEAD format. Includes a built-in keystore for managing encryption keys, shell completion, and a streaming tar library for directory encryption.
+- [mrinjamul/TwinHunter](https://github.com/mrinjamul/TwinHunter) ([v1.1.0](https://github.com/mrinjamul/TwinHunter/releases/tag/v1.1.0), 4 weeks ago) - Duplicate File Finder.
+- [mrinjamul/cipherix](https://github.com/mrinjamul/cipherix) ([v3.1.0](https://github.com/mrinjamul/cipherix/releases/tag/v3.1.0), 1 month ago) - A command-line file encryption tool written in Go. Supports AES-256-GCM, XChaCha20-Poly1305, and X25519 public-key encryption with a unified 64 KiB chunked AEAD format. Includes a built-in keystore for managing encryption keys, shell completion, and a streaming tar library for directory encryption.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) ([v1.2.3](https://github.com/tech-thinker/chatz/releases/tag/v1.2.3), 9 months ago) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications.
 - [mrinjamul/flareship](https://github.com/mrinjamul/flareship) ([v2.1.0](https://github.com/mrinjamul/flareship/releases/tag/v2.1.0), 10 months ago) -  A CLI to interact with Cloudflare API and manipulate DNS records.
 
@@ -37,7 +37,7 @@ I ❤ Open Source.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 5 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 235944 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 236041 stars
 
 #### 👥 Latest follower
 
