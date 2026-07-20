@@ -17,7 +17,7 @@ I ❤ Open Source.
 
 - [mrinjamul/TwinHunter](https://github.com/mrinjamul/TwinHunter) - Duplicate File Finder. (2 months ago)
 - [mrinjamul/cipherix](https://github.com/mrinjamul/cipherix) - A command-line file encryption tool written in Go. Supports AES-256-GCM, XChaCha20-Poly1305, and X25519 public-key encryption with a unified 64 KiB chunked AEAD format. Includes a built-in keystore for managing encryption keys, shell completion, and a streaming tar library for directory encryption. (2 months ago)
-- [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. (10 months ago)
+- [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. (11 months ago)
 - [mrinjamul/flareship](https://github.com/mrinjamul/flareship) -  A CLI to interact with Cloudflare API and manipulate DNS records. (11 months ago)
 
 #### 🚀 Latest releases I contributed to
@@ -29,7 +29,7 @@ I ❤ Open Source.
 
 #### ⭐ Latest repositories I starred
 
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone - 186680 stars
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - DigitalPlat FreeDomain: Free Domain For Everyone - 186898 stars
 - [mrasif/neural-network-go](https://github.com/mrasif/neural-network-go) - Neural Network from Scratch using golang - 1 stars
 - [mrinjamul/neural-network-go](https://github.com/mrinjamul/neural-network-go) - Neural Network from Scratch using golang - 1 stars
 - [tech-thinker/dockerfiles](https://github.com/tech-thinker/dockerfiles) - This is the repository for all private docker files. - 1 stars
@@ -38,7 +38,7 @@ I ❤ Open Source.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 239766 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 239856 stars
 
 #### 👥 Latest follower
 
