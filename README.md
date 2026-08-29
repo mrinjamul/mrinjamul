@@ -26,7 +26,7 @@ I ❤ Open Source.
 
 #### ⭐ Latest repositories I starred
 
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone. - 196111 stars
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) - Free domain registration and practical DNS learning resources for everyone. - 196254 stars
 - [mrasif/neural-network-go](https://github.com/mrasif/neural-network-go) - Neural Network from Scratch using golang - 1 stars
 - [mrinjamul/neural-network-go](https://github.com/mrinjamul/neural-network-go) - Neural Network from Scratch using golang - 1 stars
 - [tech-thinker/dockerfiles](https://github.com/tech-thinker/dockerfiles) - This is the repository for all private docker files. - 1 stars
@@ -35,7 +35,7 @@ I ❤ Open Source.
 - [tech-thinker/chatz](https://github.com/tech-thinker/chatz) - Slack, Google Chat, Discord and Telegram bot for sending messages/notifications. - 2 stars
 - [tech-thinker/go-cookiecutter](https://github.com/tech-thinker/go-cookiecutter) - It&#39;s a blue print of golang backend application - 8 stars
 - [tech-thinker/push-to-repo](https://github.com/tech-thinker/push-to-repo) - Push to another GitHub repository - 4 stars
-- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 244783 stars
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree - 244874 stars
 
 #### 👥 Latest follower
 
